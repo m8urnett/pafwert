@@ -1,0 +1,37 @@
+are not 	aren't 
+cannot / can not	can't
+could not 	couldn't 
+did not 	didn't 
+does not 	doesn't
+do not 	don't 
+has not 	hasn't 
+have not	hasn't
+had not 	hadn't 
+is not 	isn't 
+should not 	shouldn't 
+were not 	weren't 
+will not 	won't
+would not 	wouldn't 
+I am 	I'm 
+I have 	I've 
+I will / I shall	I'll
+I would / I should / I had 	I'd 
+you have 	you've
+you will 	you'll
+you would / you had 	you'd
+he is / he has 	he's
+he will 	he'll
+he would / he had 	he'd
+she is / she has 	she's
+she will 	she'll
+she would / she had 	she'd
+it is / it has 	it's
+it will 	it'll
+we are 	we're
+we have 	we've
+we will / we shall 	we'll
+we would / we had 	we'd
+they have 	they've
+they will 	they'll
+they would / they had 	they'd
+you are 	you're

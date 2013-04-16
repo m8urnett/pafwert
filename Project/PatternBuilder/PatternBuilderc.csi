@@ -1,0 +1,12 @@
+[History]
+B0=PatternTester/modCommandLine/Main
+B1=PatternTester/PafwertLib/ModifyWord
+B2=PatternTester/PafwertLib/GetWord
+B3=PatternTester/PafwertLib/GetFileName
+B4=PatternTester/modErrorHandling/GetErrorTextFromResource
+B5=PatternTester/PafwertLib/GeneratePassword
+B6=PatternTester/PafwertLib/CheckPattern
+B7=PatternTester/Complexity/Score
+B8=PatternTester/frmBuilder/ButtonPlus1_Click
+B9=PatternTester/frmBuilder/DoChart
+B10=PatternTester/frmBuilder/Form_Load

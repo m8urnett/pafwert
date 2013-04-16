@@ -1,0 +1,14 @@
+PafwertLib = 317, 43, 1152, 840, 
+modMain = 136, 143, 1104, 940, 
+modNumText = 0, 0, 0, 0, C
+modRegistry = 0, 0, 0, 0, C
+modArrays = 0, 0, 0, 0, C
+modConstants = 22, 23, 544, 536, C
+modErrorHandling = 66, 69, 588, 582, C
+Policy = 0, 0, 0, 0, C
+Warnings = 44, 46, 566, 559, C
+Complexity = 86, 46, 1144, 892, 
+ComplexityWarning = 0, 0, 0, 0, C
+modCommandLine = 66, 69, 588, 582, Z
+frmIcon = 0, 0, 0, 0, C, 110, 115, 632, 628, C
+frmBuilder = 176, 184, 698, 697, , 154, 161, 676, 674, C

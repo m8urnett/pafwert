@@ -1,0 +1,16 @@
+[History]
+B0=Pafwert/frmOptions/Form_Load
+B1=Pafwert/PafwertLib/WordlistDir
+B2=Pafwert/PafwertLib/CheckPattern
+B3=Pafwert/PafwertLib/GeneratePassword
+B4=Pafwert/PafwertLib/TimeTaken
+B5=Pafwert/Complexity/Password
+B6=Pafwert/Complexity/CheckPassword
+B7=Pafwert/modMain/GetLongFileName
+B8=Pafwert/modMain/GetPhonetic
+B9=Pafwert/frmOptions/Option1_Click
+B10=Pafwert/frmOptions/chkRequire_Click
+B11=Pafwert/Warnings/Add
+B12=Pafwert/Complexity/AddWarning
+B13=Pafwert/Warnings/ComplexityWarning
+B14=Pafwert/Policy/GetGroupPolicy

@@ -1,0 +1,16 @@
+[History]
+B0=PatternBuilder/Complexity/CheckPassword
+B1=PatternBuilder/modMain/CheckWordlistDir
+B2=PatternBuilder/PafwertLib/WordlistDir
+B3=PatternBuilder/modMain/Bracket
+B4=PatternBuilder/Complexity/Keyspace
+B5=PatternBuilder/PafwertLib/Complexity
+B6=PatternBuilder/PafwertLib/GetWord
+B7=PatternBuilder/PafwertLib/CheckPattern
+B8=PatternBuilder/PafwertLib/GeneratePassword
+B9=PatternBuilder/modMain/Obscure
+B10=PatternBuilder/modMain/PigLatin
+B11=PatternBuilder/modMain/PickOne
+B12=PatternBuilder/modMain/RandomWord
+B13=PatternBuilder/PafwertLib/ParsePattern
+B14=PatternBuilder/PafwertLib/GetPatternValue

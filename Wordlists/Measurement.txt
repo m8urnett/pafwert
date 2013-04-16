@@ -1,0 +1,282 @@
+acre
+acres
+alens
+amp
+ampere
+amperes
+amps
+angstroms
+arms-lengths
+arpents
+arsheens
+arshins
+astronomical units
+atmospheres
+attometers
+bale
+bales
+bamboos
+barleycorns
+barrel
+barrels
+bee spaces
+bevameters
+bicrons
+bits
+bohrs
+bolt
+bolts
+box
+Btu
+bundle
+bundles
+bushel
+bushels
+cables
+caliber
+calibers
+calories
+candela
+candelas
+cape feet
+cape inches
+cape roods
+carat
+carats
+centimeter
+centimeters
+centuries
+chains
+chinese feet
+chinese inches
+chinese miles
+chinese yards
+city blocks
+clicks
+cm
+cord
+cords
+cu ft
+cu yd
+cuadras
+cubic feet
+cubic inches
+cubic meters
+cubic yards
+cubits
+cuerdas
+cup
+cups
+cycles
+dashes
+day
+days
+decade
+decades
+decibel
+decibels
+deciliters
+decimeters
+degree
+degrees
+dekaliters
+dekameters
+didot points
+digits
+douzièmes
+dram
+drops
+dynes
+em
+ems
+estadios
+exabytes
+exameters
+fadens
+fbm
+feet
+femtometers
+fermis
+fl oz
+foot
+fresnels
+Ft.
+furlongs
+gal
+gal.
+gallon
+gallons
+gauge
+gauges
+Gb
+gigabytes
+gigahertz
+gigawatts
+gill
+gills
+goads
+gross
+hectares
+hectoliters
+hectometers
+hertz
+hogshead
+hogsheads
+horsepower
+hour
+hours
+hubbles
+In.
+inch
+inches
+joules
+karat
+karats
+Kb
+kelvin
+kelvins
+kg
+kilobytes
+kilocycle
+kilocycles
+kilogram
+kilohertz
+kilometer
+kilometers
+kilotons
+kilowatt
+kilowatts
+kiloyards
+kl
+km
+knot
+knots
+kw
+lamberts
+laps
+lb
+lbs.
+league
+leagues
+light-year
+light-years
+liter
+liters
+lots
+lumens
+magnum
+magnums
+mb
+megabytes
+megahertz
+megaliters
+megatons
+megawatts
+Megs
+meter
+meters
+metres
+metric miles
+metric tons
+mg
+MHz
+microinchs
+microjoules
+microliters
+micrometers
+micromicrons
+microns
+microseconds
+miglios
+mile
+miles
+millimeter
+millimeters
+millimicrons
+milliseconds
+mils
+minute
+minutes
+mm
+mole
+moles
+month
+months
+nail
+nails
+nanometers
+nautical miles
+ohm
+ohms
+ounce
+ounces
+Oz.
+paces
+parsec
+pecks
+petabytes
+petameters
+pica
+picas
+picometers
+pinches
+pint
+pints
+pipe
+pipes
+point
+points
+pounds
+Pt.
+Qt.
+quadrant
+quadrants
+quart
+quarter
+quarters
+quarts
+radians
+ream
+reams
+rod
+royal feet
+RPM's
+second
+seconds
+sq ft
+sq in
+sq mi
+sq yd
+square feet
+square kilometers
+square meters
+square miles
+square yards
+steps
+T.
+tablespoon
+tbsp
+tbsp.
+teaspoon
+tenthmeters
+terabytes
+terameters
+ton
+tons
+tsp
+tsp.
+twains
+twips
+volts
+watts
+weeks
+yard
+yards
+year
+years
+yoctometers
+yottabytes
+yottameters
+zeptometers
+zettabytes
+zettameters

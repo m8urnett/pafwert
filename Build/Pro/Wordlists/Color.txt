@@ -1,0 +1,306 @@
+alice blue
+almond
+amber
+amber
+amethyst
+amethyst
+antique brass
+antique white
+apricot
+apricot
+aqua
+aquamarine
+aquamarine
+auburn
+avocado
+azure
+azure
+banana
+beige
+beige
+beryl
+bisque
+black
+black
+black
+black
+black
+black
+blanched almond
+blonde
+blue
+blue
+blue
+blue
+blue
+blue
+blue
+blue
+blue
+blue green
+blue violet
+blueberry
+blush
+bone
+brass
+brick
+bronze
+bronze
+bronze yellow
+brown
+brown
+brown
+brown
+brown
+brown
+buff
+burgandy
+burgundy
+burlywood
+burnt umber
+canary
+cardinal
+carmine
+carnation
+celadon
+cerulean
+champagne
+charcoal
+charcoal
+chartreuse
+chartreuse
+cherry
+chestnut
+chocolate
+chocolate
+cinnamon
+claret
+cobalt
+cobalt
+cocoa 
+coffee
+cool gray
+copper
+copper
+coral
+cornflower
+cornsilk
+cream
+cream
+crimson
+crimson
+cyan
+cyan
+dandelion
+dark
+dark blue
+dark brown
+dun
+ebony
+eggshell
+eggshell
+emerald
+emerald
+fawn
+fire brick
+flaxen
+flesh
+floral white
+forest green
+fuchsia
+fuschia
+gainsboro
+gainsboro
+gamboge
+garnet
+ginger
+gold
+gold
+goldenrod
+grape
+gray
+gray
+gray
+gray
+gray
+gray
+green
+green
+green
+green
+green
+green
+green
+greenish
+grey
+grey
+hazel
+hazel
+heather
+heather
+heliotrope
+honeydew
+hot pink
+hunter green
+indian red
+indigo
+indigo
+ivory
+ivory
+jade
+jet
+kelly green
+khaki
+khaki
+lavender
+lavender
+lawn green
+lemon
+lemon chiffon
+light
+light blue
+light brown
+lilac
+lilac
+lime
+lime
+linen
+loden
+magenta
+magenta
+magic mint
+mahogany
+malachite
+maroon
+maroon
+mauve
+mauve
+mazarine
+melon
+midnight blue
+mignonette
+mint
+mint
+mint cream
+misty rose
+moccasin
+mustard
+navajo white
+navy
+ochre
+old lace
+olive
+olive
+olive drab
+orange
+orange
+orange
+orange
+orange
+orange
+orange
+orchid
+outer space
+patina
+peach
+peach
+peacock blue
+pearl
+periwinkle
+pink
+pink
+platinum
+plum
+plum
+powder blue
+primrose
+puce
+purple
+purple
+purple
+purple
+purple
+purplish
+raspberry
+red
+red
+red
+red
+red
+red
+red violet
+reddish
+reseda
+rose
+rose
+rose
+royal blue
+ruby
+russet
+rust
+rust
+sable
+saddle brown
+saffron
+sage
+salmon
+salmon
+sapphire
+scarlet
+scarlet
+sea green
+seashell
+sepia
+sienna
+sienna
+silver
+silver
+sky blue
+slate
+slate blue
+slate gray
+smoke
+snow
+spring green
+strawberry
+sunflower
+tan
+tan
+tangerine
+taupe
+taupe
+teal
+teal
+timberwolf
+topaz
+topaz
+turquoise
+turquoise
+ultramarine
+umber
+verdant
+vermilion
+violet
+violet
+violet red
+virid
+walnut
+walnut
+white
+white
+white
+white
+white
+white
+wine
+wine
+wine
+xanthic
+yellow
+yellow
+yellow
+yellow
+yellow
+yellow
+yellowish
+zaffre

@@ -1,0 +1,86 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{420B2830-E718-11CF-893D-00A0C9054228}#1.0#0#..\..\..\..\..\WINDOWS\system32\scrrun.dll#Microsoft Scripting Runtime
+Object={A19332D7-D707-4A30-9F38-796D120AF5B3}#1.2#0; BtnPlus1.ocx
+Object={2BF72F7D-D367-4712-9146-5533EF3E691A}#1.2#0; FraPlus1.ocx
+Module=modMain; (Modules)\Main.bas
+Module=modNumText; (Modules)\NumText.bas
+Class=PafwertLib; (Class Modules)\PafwertLib.cls
+Form=(Forms)\frmAbout.frm
+Module=modRegistry; (Modules)\Registry.bas
+Form=(Forms)\frmMain.frm
+Class=Complexity; (Class Modules)\Complexity.cls
+Module=modErrorHandling; (Modules)\ErrorHandling.bas
+Class=ComplexityWarning; (Class Modules)\ComplexityWarning.cls
+Class=Warnings; (Class Modules)\Warnings.cls
+Module=modConstants; (Modules)\Constants.bas
+Class=Policy; (Class Modules)\Policy.cls
+Module=modArrays; (Modules)\Arrays.bas
+Form=(Forms)\frmIcon.frm
+Module=modCommandLine; modCommandLine.bas
+Form=(Forms)\frmOptions.frm
+IconForm="frmIcon"
+Startup="frmMain"
+HelpFile="pafwert.chm"
+Title="Pafwert"
+ExeName32="Pafwert.exe"
+Path32="..\Build\Pro"
+Command32=""K:\Users\Mark\Development\Pafwert 2.0\Wordlists""
+Name="Pafwert"
+HelpContextID="0"
+Description="Strong Password Generator"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=6
+RevisionVer=28
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionComments="Pafwert (http://xato.net)"
+VersionCompanyName="M. Burnett (mb@xato.net)"
+VersionFileDescription="Pafwert Password Generator"
+VersionLegalCopyright="Copyright ©2006 Mark Burnettt, All Rights Reserved."
+VersionProductName="Pafwert"
+CondComp="Pro = -1"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=-1
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[vbCodeShield]
+Settings=
+
+[CoderForVB]
+NumberToSameLocation=0
+BuildFolder=..\Build
+CompileProject=1
+CompileToSourceFolder=False
+StartingLineNumber=10
+ReOpenSourceProject=False
+
+[vbAdvance]
+IsConsole=1
+HasStubFile=0
+GenerateMap=0
+TSAware=0
+XPManifest=0
+ResBuildName=..\Build\Pafwert.dll
+ReplaceIcon=0
+AppIconFile=..\Graphics\Symbol Refresh 4.ico
+SendCommandArgs=0
+SymbDbgPref=0
+RevisionVersion=0

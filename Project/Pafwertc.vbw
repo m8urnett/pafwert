@@ -1,0 +1,15 @@
+modMain = 33, 101, 1197, 966, 
+modNumText = 176, 176, 847, 601, C
+PafwertLib = 46, 110, 1085, 917, 
+frmAbout = 116, 244, 1154, 723, C, -189, 205, 782, 678, C
+modRegistry = 405, 236, 1176, 767, CZ
+frmMain = 147, 161, 1131, 936, , 57, 17, 906, 700, C
+Complexity = 66, 66, 760, 551, C
+modErrorHandling = 66, 87, 771, 618, C
+ComplexityWarning = 0, 0, 0, 0, C
+Warnings = 154, 154, 907, 632, C
+modConstants = -49, 251, 936, 864, 
+Policy = 0, 0, 0, 0, C
+modArrays = 264, 264, 892, 877, C
+modCommandLine = 110, 145, 764, 676, Z
+frmIcon = 0, 0, 0, 0, C, 176, 232, 792, 763, C

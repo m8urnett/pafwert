@@ -1,0 +1,253 @@
+abalone
+almonds
+anchovies
+apple pies
+apples
+apricots
+artichokes
+asparagus
+avocados
+bacon
+baked beans
+bananas
+basil
+beans
+beef
+bell peppers
+biscuits
+black-eyed peas
+bread
+broccoli
+brownies
+brussels sprouts
+burgers
+burritos
+butter
+cabbage
+cake
+cakes
+calamari
+canadian bacon
+candy
+cantelope
+canteloupes
+carrot sticks
+carrots
+cashews
+catfish
+cauliflower
+cayenne peppers
+celery
+cereal
+chayote
+cheddar cheese
+cheese
+cherries
+chicken
+chicken salad
+chicken wings
+chili
+chips
+cilantro
+cinnamon rolls
+coconuts
+cookies
+corn
+corn dogs
+cotton candy
+crab
+crackers
+cranberries
+crepes
+croutons
+cucumbers
+cupcakes
+custard
+dates
+donuts
+doughnuts
+duck
+egg rolls
+eggplant
+eggs
+elk
+empanadas
+enchilidas
+endive
+escargot
+fettucini
+figs
+fish
+fowl
+franks
+french fries
+french toast
+fried chicken
+fried rice
+fries
+fritters
+fruit
+fruitcakes
+garlic
+gingerbread
+grapefruit
+grapes
+gravy
+green beans
+grouper
+guacamole
+guava
+gyros
+halibut
+ham
+hamburgers
+herbs
+honey buns
+hot dogs
+ice
+ice cream
+ice cubes
+jelly beans
+kale
+ketchup
+kidney beans
+lamb
+lamb chops
+lasagna
+leeks
+legumes
+lemons
+lettuce
+lima beans
+limes
+liver
+lobster
+macaroni
+mangos
+margarine
+mayonaise
+meat
+meatloaf
+menudo
+mexican rice
+milk
+muffins
+mushrooms
+mustard
+mutton
+nachos
+noodles
+nuts
+oatmeal
+octupus
+okra
+olive oil
+olives
+omeletes
+onions
+oranges
+oregano
+oysters
+pancakes
+papayas
+parsley
+pasta
+pastries
+peaches
+peanut butter
+peanuts
+pears
+peas
+peasant
+pecans
+pepperoni
+peppers
+persimmons
+pheasant
+pickles
+pies
+pine nuts
+pineapple
+pinto beans
+pizzas
+plums
+popcorn
+popsicle
+pork
+pork roast
+potatoes
+poultry
+prawns
+pretzels
+prickly pears
+pudding
+pumpkin pies
+pumpkins
+quail
+rabbit
+radishes
+raisins
+raspberries
+ravioli
+refried beans
+rhubarb
+ribs
+rice
+roast
+rolls
+rosemary
+salad
+salmon
+salsa
+sandwiches
+sardines
+scallops
+seafood
+shallots
+shellfish
+sherbet
+sherbets
+shrimp
+sloppy joes
+snacks
+snails
+sorbets
+soup
+soybeans
+spaghetti
+spinach
+squash
+squid
+steak
+stew
+strawberries
+sugar
+sushi
+sweet potatoes
+swiss chard
+swiss cheese
+swordfish
+tacos
+tarts
+tea
+thyme
+toast
+tomato soup
+tomatoes
+tortillas
+trout
+tuna
+tuna fish
+turkey
+turnips
+twinkies
+vegetables
+vennison
+vinegar
+waffles
+walnuts
+watermelon
+watermelons
+wontons
+yams
+yogurt
