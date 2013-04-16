@@ -15,3 +15,11 @@ While Pafwert generates passwords like these that are actually much stronger and
 - Anaxtogrind v2.0
 
 Now it doesn’t take much to realize that users are much more willing to use strong passwords with just a little help from Pafwert. And don’t knock the simplicity–it’s much smarter than you think.
+
+About
+-------
+I began development on this tool as a Perl script in 2000. Over the years I have spent way too much time overthinking and overdeveloping something as simple as a password generator, but Pafwert is the result. If you would like to get a taste of how complex Pafwert really is under the surface, I suggest reading the Pattern Guide.
+
+Pafwert is a VB6 application but I do have a complete development VM available if someone really is serious about making modifications. What I would like to see is Pafwert simplified and moved to a PHP library that anyone can integrate into their own applications.
+
+
