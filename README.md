@@ -16,6 +16,8 @@ While Pafwert generates passwords like these that are actually much stronger and
 
 Now it doesn’t take much to realize that users are much more willing to use strong passwords with just a little help from Pafwert. And don’t knock the simplicity–it’s much smarter than you think.
 
+If you are just looking for a compiled binary for Windows, you can download it at http://xato.net/pafwert
+
 About
 -------
 I began development on this tool as a Perl script in 2000. Over the years I have spent way too much time overthinking and overdeveloping something as simple as a password generator, but Pafwert is the result. If you would like to get a taste of how complex Pafwert really is under the surface, I suggest reading the Pattern Guide.
