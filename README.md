@@ -11,7 +11,7 @@ What makes Pafwert different than every other password generator? It’s simple,
 While Pafwert generates passwords like these that are actually much stronger and actually kind of fun to remember:
 - bone.horse.berner
 - Miss. Undercarriage
-- www.orangeslapper.gov
+- www.orangeslapperdotgov
 - Anaxtogrind v2.0
 
 Now it doesn’t take much to realize that users are much more willing to use strong passwords with just a little help from Pafwert. And don’t knock the simplicity–it’s much smarter than you think.
